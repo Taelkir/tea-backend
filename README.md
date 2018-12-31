@@ -8,7 +8,11 @@ The backend API for the tea React App
 ## Scripts
 
 `npm start`
-Begin development
+Begin the server, judging from the environment if it should be in PROD or DEV mode.
+
+`npm run dev`
+Run nodemon
+
 
 ## Technologies
 
